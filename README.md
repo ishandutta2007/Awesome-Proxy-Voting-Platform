@@ -14,93 +14,37 @@ Open-source emphasis: The open-source landscape is more fragmented than the comm
 
 Contributions welcome! Open a PR to add/update entries. Keep descriptions factual and link to official sites.
 
-Table of Contents
+## Table of Contents
 
-SaaS/Hosted Platforms
+- [SaaS/Hosted Platforms](#saashosted-platforms)
+- [Open-Source GitHub Projects](#open-source-github-projects)
+- [How to Contribute](#how-to-contribute)
+- [Disclaimer](#disclaimer)
 
-Open-Source GitHub Projects
+## SaaS/Hosted Platforms
 
-How to Contribute
-
-Disclaimer
-
-SaaS/Hosted Platforms
-
-Broadridge ProxyEdge
-
-Institutional proxy voting platform supporting electronic ballot processing, vote execution, governance workflows, reporting, and connectivity between institutional investors, custodians, and meeting issuers.
-
-Glass Lewis Viewpoint
-
-Institutional governance research and proxy-voting platform combining meeting research, vote recommendations, policy management, ballot review, and voting workflows.
-
-Institutional Shareholder Services (ISS)
-
-Major proxy advisory and governance services provider offering institutional voting research, policy-based recommendations, governance analytics, and voting-related workflow solutions.
-
-ProxyVote
-
-Electronic shareholder voting platform used for the distribution of proxy materials and submission of voting instructions for corporate meetings.
-
-Broadridge Proxy Services
-
-Proxy processing and investor communications infrastructure supporting meeting notices, proxy materials, voting instructions, tabulation, and shareholder communications.
-
-ProxyExchange
-
-Proxy voting and governance workflow platform focused on institutional investor voting operations and the management of proxy-related information.
-
-Computershare Proxy Services
-
-Shareholder-services and issuer-services platform supporting annual and special meetings, proxy distribution, voting, meeting administration, and shareholder record workflows.
-
-Equiniti Shareholder Services
-
-Corporate and shareholder-services provider supporting proxy administration, voting processes, investor communications, meeting services, and share registry operations.
-
-Manifest
-
-Proxy voting and corporate governance platform providing meeting information, governance analysis, voting services, policy support, and institutional stewardship workflows.
-
-Proxy Insight
-
-Institutional governance and proxy-voting intelligence platform providing voting data, shareholder voting analysis, governance research, and stewardship insights.
-
-VoteTracker
-
-Voting and election-management platform providing digital ballot administration, vote collection, reporting, and election workflow support.
-
-ISS Governance Solutions
-
-Governance technology and advisory services covering proxy research, voting policy analysis, stewardship reporting, ESG governance, and institutional investor workflows.
-
-Glass Lewis
-
-Proxy research and corporate governance intelligence provider offering analysis and voting recommendations for institutional investors.
-
-Broadridge Issuer Solutions
-
-Issuer-facing technology and communications services supporting shareholder meetings, proxy distribution, voting infrastructure, and investor engagement.
-
-Computershare Meeting Services
-
-Corporate meeting and shareholder-voting services supporting physical, virtual, and hybrid shareholder meeting workflows.
-
-EQS Group
-
-Governance and compliance technology provider with investor-relations, corporate communications, and shareholder-engagement capabilities relevant to meeting and voting workflows.
-
-Georgeson
-
-Shareholder-services and corporate-governance advisory provider supporting proxy solicitation, shareholder engagement, voting campaigns, and meeting-related communications.
-
-Morrow Sodali
-
-Corporate governance and shareholder advisory firm supporting proxy solicitation, shareholder engagement, activism preparedness, and corporate voting campaigns.
-
-Alliance Advisors
-
-Proxy solicitation and shareholder communications provider supporting corporate voting campaigns and investor engagement.
+| Product / Platform | Description | Starting Pricing | Free Tier / Free Trial Limit |
+| :--- | :--- | :--- | :--- |
+| **Broadridge ProxyEdge** | Institutional proxy voting platform supporting electronic ballot processing, vote execution, governance workflows, reporting, and custodian connectivity. | Starting at ~$10,000 / year for base institutional subscription tier (or SEC/NYSE baseline per-account fees starting at $0.50/account). | Free policy & voting data access (PPI) for non-profits/academics; 30-day sandbox/demo trial upon request. |
+| **Glass Lewis Viewpoint** | Institutional governance research and proxy-voting platform combining meeting research, vote recommendations, policy management, ballot review, and voting workflows. | Starting at ~$12,000 / year for entry-level institutional research & voting access (or $150 per individual issuer research report). | Free Issuer Data Report (IDR) verification preview for public companies; 14-day institutional demo trial upon request. |
+| **Institutional Shareholder Services (ISS)** | Major proxy advisory and governance services provider offering institutional voting research, policy-based recommendations, governance analytics, and voting workflows. | Starting at ~$10,000 / year for basic institutional proxy research subscription (or $500 per custom proxy research report). | Free Issuer Data Verification Portal access for public companies to audit corporate governance profiles; 14-day institutional trial upon request. |
+| **ProxyVote** | Electronic shareholder voting platform used for distribution of proxy materials and submission of voting instructions for corporate meetings. | $0 for retail investors (Free for individual shareholders); for corporate issuers, NYSE baseline fee starts at $0.40–$0.50 per position (min $250 per meeting). | Free forever for all retail shareholders to cast unlimited proxy votes using 16-digit control numbers. |
+| **Broadridge Proxy Services** | Proxy processing and investor communications infrastructure supporting meeting notices, proxy materials, voting instructions, tabulation, and shareholder communications. | Regulated starting rate of $250 base fee per meeting + $0.40–$0.50 per shareholder position for material distribution. | Free E-Proxy electronic notice delivery portal for shareholders; 30-day corporate meeting distribution demo upon request. |
+| **ProxyExchange** | Proxy voting and governance workflow platform focused on institutional investor voting operations and management of proxy-related information. | Starting at ~$10,000 / year for base institutional vote execution and workflow license. | 14-day institutional sandbox/demo trial with sample ballot workflow upon request. |
+| **Computershare Proxy Services** | Shareholder-services and issuer-services platform supporting annual and special meetings, proxy distribution, voting, meeting administration, and shareholder records. | Starting at ~$2,500 per meeting for base shareholder meeting administration and proxy processing (or $1,500 setup + $0.50 per account). | Free Investor Centre web portal access for retail shareholders to cast votes; 30-day issuer meeting workflow demo upon request. |
+| **Equiniti Shareholder Services** | Corporate and shareholder-services provider supporting proxy administration, voting processes, investor communications, meeting services, and share registry operations. | Starting at ~$3,000 per meeting baseline / ~$5,000 per year for standard issuer proxy administration. | Free EQ Shareowner Online portal access for individual shareholders; 30-day demo trial for corporate issuers upon request. |
+| **Manifest** | Proxy voting and corporate governance platform providing meeting information, governance analysis, voting services, policy support, and stewardship workflows. | Starting at ~$5,000 (£4,000) / year for base institutional voting portal subscription. | Free public corporate governance summaries & academic dataset previews; 14-day institutional trial upon request. |
+| **Proxy Insight** | Institutional governance and proxy-voting intelligence platform providing voting data, shareholder voting analysis, governance research, and stewardship insights. | Starting at ~$8,000 / year for base stewardship intelligence module (part of Diligent Market Intelligence). | Free executive voting summary reports and annual proxy season previews; 14-day full platform demo upon request. |
+| **VoteTracker** | Voting and election-management platform providing digital ballot administration, vote collection, reporting, and election workflow support. | Starting at $150 per election (or $500 / year for small organization voting subscription). | Free trial up to 1 election / 25 voters or 14-day full feature trial. |
+| **ISS Governance Solutions** | Governance technology and advisory services covering proxy research, voting policy analysis, stewardship reporting, ESG governance, and investor workflows. | Starting at ~$12,000 / year for basic ESG governance and stewardship reporting module. | Free Corporate Governance Score data verification preview for issuers; 14-day demo access upon sales request. |
+| **Glass Lewis** | Proxy research and corporate governance intelligence provider offering analysis and voting recommendations for institutional investors. | Starting at ~$12,000 / year for standard institutional meeting coverage & policy analysis. | Free Issuer Data Report (IDR) preview for public companies; 14-day sample research access upon request. |
+| **Broadridge Issuer Solutions** | Issuer-facing technology and communications services supporting shareholder meetings, proxy distribution, voting infrastructure, and investor engagement. | Baseline minimum fee starting at $250 per meeting + $0.40–$0.50 per position for digital proxy distribution. | Free electronic proxy delivery portal for retail shareholders; 30-day corporate issuer demo trial upon request. |
+| **Computershare Meeting Services** | Corporate meeting and shareholder-voting services supporting physical, virtual, and hybrid shareholder meeting workflows. | Starting at ~$2,500 per virtual/hybrid shareholder meeting platform setup. | Free retail shareholder meeting access & live voting portal; 30-day virtual meeting platform demo upon request. |
+| **EQS Group** | Governance and compliance technology provider with investor-relations, corporate communications, and shareholder-engagement capabilities. | Starting at ~$2,500 / year ($200 / month) for base IR Cockpit subscription. | 14-day free trial / interactive product demo upon request. |
+| **Georgeson** | Shareholder-services and corporate-governance advisory provider supporting proxy solicitation, shareholder engagement, voting campaigns, and meeting communications. | Retainer starting at ~$5,000 per proxy solicitation campaign / meeting. | Free preliminary shareholder list analysis and vote feasibility preview; 30-day campaign planning consultation. |
+| **Morrow Sodali** | Corporate governance and shareholder advisory firm supporting proxy solicitation, shareholder engagement, activism preparedness, and voting campaigns. | Retainer starting at ~$7,500 per proxy solicitation campaign / governance mandate. | Free initial proxy contest risk assessment report; corporate advisory consultation demo upon request. |
+| **Alliance Advisors** | Proxy solicitation and shareholder communications provider supporting corporate voting campaigns and investor engagement. | Starting at ~$4,000 per meeting campaign for basic proxy solicitation services. | Free preliminary vote projection report & institutional shareholder profiling preview. |
+| **OpaVote** | Online voting service supporting preferential, proportional, and ranked-choice voting methods for elections and polls. | Starting at $10 per election (covers up to 125 voters or 20 candidates). | Free forever plan for up to 25 voters, 10 candidates, and 3 simultaneous elections per account. |
 
 Open-Source GitHub Projects
 
