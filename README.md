@@ -68,7 +68,7 @@ The table below lists institutional SaaS proxy voting, advisory, distribution, a
 
 The table below lists open-source proxy voting frameworks, cryptographic election protocol engines, liquid democracy tools, and DAO governance infrastructure, **sorted by GitHub Star Count in descending order**.
 
-| Repository / Project | Stars Badge | Description |
+| Repository / Project | Stars_Badge | Description |
 | :--- | :--- | :--- |
 | **[OpenZeppelin Contracts](https://github.com/OpenZeppelin/openzeppelin-contracts)** | [![GitHub stars](https://img.shields.io/github/stars/OpenZeppelin/openzeppelin-contracts?style=social&color=white)](https://github.com/OpenZeppelin/openzeppelin-contracts/stargazers) | Modular open-source smart-contract library containing production-grade `Governor` primitives, token delegation modules (`ERC20Votes`), timelocks, and counting mechanisms for governance. |
 | **[Snapshot](https://github.com/snapshot-labs/snapshot-v1)** | [![GitHub stars](https://img.shields.io/github/stars/snapshot-labs/snapshot-v1?style=social&color=white)](https://github.com/snapshot-labs/snapshot-v1/stargazers) | Major open-source off-chain governance and voting platform supporting gasless proposal voting, weighted strategies, multi-choice ballots, and verifiable cryptographic voting records. |
